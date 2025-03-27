@@ -3,7 +3,7 @@
 ## 😃 About me:
 <!-- I started around May 2021 -->
 I am young, polish programmer. I have aprox year of programming experience!\
-I am mainly working in JS and Django (also have a bit Nuxt expierience). I love linux ❤️\
+I am mainly working in Nuxt and Rust (also have a bit Django expierience). I love linux ❤️\
 I am also Heroes III tournament organizer, template maker, shoutcaster and stream host.\
 Heroes III tournament that I have organized: https://github.com/Kubaryt/Kubaryt/blob/kubaryt/tournaments.md.
 
