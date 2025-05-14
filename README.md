@@ -2,9 +2,10 @@
 
 ## 😃 About me:
 <!-- I started around May 2021 -->
-I am young, polish programmer. I have aprox year of programming experience!\
-I am mainly working in Nuxt and Rust (also have a bit Django expierience). I love linux ❤️\
-I am also Heroes III tournament organizer, template maker, shoutcaster and stream host.\
+I am young, polish programmer. I have aprox 1.5 years of programming experience!\
+I am mainly working in Nuxt and Rust (also have a bit Django expierience). I love linux (I use Arch BTW) ❤️\
+Besides that I am also Head Coordinator, or just main organizer of Hack4Krak CTF - Capture the Flag, which had 2 editions so far, one for students from XXXI Secondary School in Cracow and second for Primary Schools in Cracow, and will have 3rd edition for all Secondary Schools in Cracow!\
+I am also Heroes III tournament organizer, template maker, shoutcaster and stream host, although I am not that active in this community anymore.\
 Heroes III tournament that I have organized: https://github.com/Kubaryt/Kubaryt/blob/kubaryt/tournaments.md.
 
 ### Heroes III organization that I am part of:
@@ -12,9 +13,9 @@ Heroes III tournament that I have organized: https://github.com/Kubaryt/Kubaryt/
 - Liga Heroes - Central Committee member.
 
 ## 🔭 I’m currently working on:
+[Hack4KrakSite](https://github.com/Hack4Krak/Hack4KrakSite) - Project for Hack4Krak CTF, I am ~~mainly backend~~ ~~unfortunalety~~ fullstack dev there.\
 [GameOfLifePython](https://github.com/Kubaryt/GameOfLifePython) - Recreation of Conways Game of Life,\
-[45KDH Trampy Website](https://github.com/Kubaryt/45KDH_Trampy_Website) - Website for scouts' team 45 KDH Trampy in Nuxt.\
-[Hack4KrakSite](https://github.com/Hack4Krak/Hack4KrakSite) - Project for Hack4Krak CTF, I am ~~mainly backend~~ ~~unfortunalety~~ fullstack dev there.
+[45KDH Trampy Website](https://github.com/Kubaryt/45KDH_Trampy_Website) - Website for scouts' team 45 KDH Trampy in Nuxt.
 
 ## 📯 How to reach me:
 Talk to me on Discord: kubaryt\

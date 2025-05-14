@@ -1,7 +1,7 @@
 # Tournaments that I was/am helping with
 
 ## Heroes 3
-- Kubaryt Cup I, II, III and IV - Main Organizer/Committee Chef from 9 VI 2021 - 27 XI 2021, 31 XII 2021 - 19 X 2022, 15 XII 2022 - 6 XI 2023, 7 XII 2023 to now
+- Kubaryt Cup I, II, III and IV - Main Organizer/Committee Chef from 9 VI 2021 - 27 XI 2021, 31 XII 2021 - 19 X 2022, 15 XII 2022 - 6 XI 2023, 7 XII 2023 to 1 VII 2024.
 - Warzywa Instant - Judge 1 IV - 31 VII 2022
 - 1mmt - Judge 17 VI - 18 IX 2022
 - Matchupy Planowane 1, 2- Judge 23 X 2022 - 23 IV 2023, 13 XI 2023 to 11 II 2024
@@ -15,7 +15,7 @@
   - Season 7 Champions League - Organizer, Judge
   - Season 8 Champions League - Organizer, Judge
 - Highroll Holiday - Judge from 29 VII 2023 (de iure 08 VII 2023) to 31 IX 2023
-- XL+yoU 1, 2 - Committee Chef/Committee Chairman 1 VIII 2023 - 19 I 2024, 14 VI 2024 to now
+- XL+yoU 1, 2, 3 - Committee Chef/Committee Chairman 1 VIII 2023 - 19 I 2024, 14 VI 2024 to 7 I 2025, 14 V 2025 to now.
 - BambiCup - Judge from 23 IX 2023 to 12 III 2024
 - Flexibility Showdown - Judge from 25 XI 2023 to 31 III 2024,
 - Literally Anything - Judge from 27 XI 2023 to 8 VI 2024,
