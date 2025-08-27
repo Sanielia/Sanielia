@@ -2,7 +2,7 @@
 
 ## 😃 About me:
 <!-- I started around May 2021 -->
-I am young, polish programmer. I have aprox 1.5 years of programming experience!\
+I am young, polish programmer. I have aprox 2.5 years of programming experience!\
 I am mainly working in Nuxt and Rust (also have a bit Django expierience). I love linux (I use Arch BTW) ❤️\
 Besides that I am also Head Coordinator, or just main organizer of Hack4Krak CTF - Capture the Flag, which had 2 editions so far, one for students from XXXI Secondary School in Cracow and second for Primary Schools in Cracow, and will have 3rd edition for all Secondary Schools in Cracow!\
 I am also Heroes III tournament organizer, template maker, shoutcaster and stream host, although I am not that active in this community anymore.\
