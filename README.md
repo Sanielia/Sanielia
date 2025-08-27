@@ -14,7 +14,7 @@ Heroes III tournament that I have organized: https://github.com/Kubaryt/Kubaryt/
 
 ## 🔭 I’m currently working on:
 [Hack4KrakSite](https://github.com/Hack4Krak/Hack4KrakSite) - Project for Hack4Krak CTF, I am ~~mainly backend~~ ~~unfortunalety~~ fullstack dev there.\
-[GameOfLifePython](https://github.com/Kubaryt/GameOfLifePython) - Recreation of Conways Game of Life,\
+[chess-rs](https://github.com/Kubaryt/chess-rs) - Chess in Rust,\
 [45KDH Trampy Website](https://github.com/Kubaryt/45KDH_Trampy_Website) - Website for scouts' team 45 KDH Trampy in Nuxt.
 
 ## 📯 How to reach me:
