@@ -3,14 +3,16 @@
 ## 😃 About me:
 <!-- I started around May 2021 -->
 I am young, polish programmer. I have aprox 2.5 years of programming experience!\
-I am mainly working in Nuxt and Rust (also have a bit Django expierience). I love linux (I use Arch BTW) ❤️\
-Besides that I am also Head Coordinator, or just main organizer of Hack4Krak CTF - Capture the Flag, which had 2 editions so far, one for students from XXXI Secondary School in Cracow and second for Primary Schools in Cracow, and will have 3rd edition for all Secondary Schools in Cracow!\
+I am mainly working in Nuxt and Rust (also have a bit Django expierience). I love linux (I use Arch and Gentoo BTW) ❤️\
+Besides that I am also Head Coordinator, or just main organizer of Hack4Krak CTF - Capture the Flag, which had 2 editions so far, one for students from XXXI Secondary School in Cracow and second for Primary Schools in Cracow, and will have 3rd edition for all Secondary Schools in Poland!\
+I am contributor to GURU Gentoo repository.\
 I am also Heroes III tournament organizer, template maker, shoutcaster and stream host, although I am not that active in this community anymore.\
 Heroes III tournament that I have organized: https://github.com/Kubaryt/Kubaryt/blob/kubaryt/tournaments.md.
 
 ### Heroes III organization that I am part of:
 - H3gg - staff member and [H3gg organization on Github](https://github.com/H3-gg) owner,
 - Liga Heroes - Central Committee member.
+- Stowarzyszenie Rozwoju i Promocji Heroes III - association member
 
 ## 🔭 I’m currently working on:
 [Hack4KrakSite](https://github.com/Hack4Krak/Hack4KrakSite) - Project for Hack4Krak CTF, I am ~~mainly backend~~ ~~unfortunalety~~ fullstack dev there.\
@@ -64,6 +66,7 @@ Mail me: `kubastarzyk6554@gmail.com`
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=fff&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/UnoCSS-333?logo=unocss&logoColor=fff&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white"/>
 </p>
 
 ## 🧪 Stats
