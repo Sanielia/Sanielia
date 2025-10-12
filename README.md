@@ -2,10 +2,10 @@
 
 ## 😃 About me:
 <!-- I started around May 2021 -->
-I am young, polish programmer. I have aprox 2.5 years of programming experience!\
-I am mainly working in Nuxt and Rust (also have a bit Django expierience). I love linux (I use Arch and Gentoo BTW) ❤️\
+I am young, polish programmer. I have 3 years of programming experience!\
+I am mainly working in Nuxt, Rust and Python. I love linux (I use Arch and Gentoo BTW) ❤️\
 Besides that I am also Head Coordinator, or just main organizer of Hack4Krak CTF - Capture the Flag, which had 2 editions so far, one for students from XXXI Secondary School in Cracow and second for Primary Schools in Cracow, and will have 3rd edition for all Secondary Schools in Poland!\
-I am contributor to GURU Gentoo repository.\
+I am contributor to GURU Gentoo repository and maintainer of 2 packages there.\
 I am also Heroes III tournament organizer, template maker, shoutcaster and stream host, although I am not that active in this community anymore.\
 Heroes III tournament that I have organized: https://github.com/Kubaryt/Kubaryt/blob/kubaryt/tournaments.md.
 
@@ -17,7 +17,7 @@ Heroes III tournament that I have organized: https://github.com/Kubaryt/Kubaryt/
 ## 🔭 I’m currently working on:
 [Hack4KrakSite](https://github.com/Hack4Krak/Hack4KrakSite) - Project for Hack4Krak CTF, I am ~~mainly backend~~ ~~unfortunalety~~ fullstack dev there.\
 [chess-rs](https://github.com/Kubaryt/chess-rs) - Chess in Rust,\
-[45KDH Trampy Website](https://github.com/Kubaryt/45KDH_Trampy_Website) - Website for scouts' team 45 KDH Trampy in Nuxt.
+[GithubProjectsDiscordBot](https://github.com/Hack4Krak/GithubProjectDiscordBot) - (dev branch has all commits for now lmao) integration between Discord and Github Projects with creating posts and so.\
 
 ## 📯 How to reach me:
 Talk to me on Discord: kubaryt\
