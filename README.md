@@ -2,12 +2,12 @@
 
 ## 😃 About me:
 <!-- I started around May 2021 -->
-I am young, polish programmer. I have 3 years of programming experience!\
-I am mainly working in Nuxt, Rust and Python. I love linux (I use Arch and Gentoo BTW) ❤️\
+Hi I'm Aniela, in the internet I am known as Kubaryt (or NullPointerExcep#621 in Riot Games lmao). I am young, polish programmer, . I have 3 years of programming experience!\
+I am mainly working in Nuxt, Rust (🏳️‍⚧️) and Python. I love linux (I use Gentoo BTW) ❤️\
 Besides that I am also Head Coordinator, or just main organizer of Hack4Krak CTF - Capture the Flag, which had 2 editions so far, one for students from XXXI Secondary School in Cracow and second for Primary Schools in Cracow, and will have 3rd edition for all Secondary Schools in Poland!\
 I am contributor to GURU Gentoo repository and maintainer of 2 packages there.\
-I am also Heroes III tournament organizer, template maker, shoutcaster and stream host, although I am not that active in this community anymore.\
-Heroes III tournament that I have organized: https://github.com/Kubaryt/Kubaryt/blob/kubaryt/tournaments.md.
+I am also Heroes III tournament organizer, template maker, shoutcaster and stream host, although now I am only mostly organizer.\
+I am also pretty active in organization of many events which you can find listed here: https://github.com/Kubaryt/Kubaryt/blob/kubaryt/events.md.
 
 ### Heroes III organization that I am part of:
 - H3gg - staff member and [H3gg organization on Github](https://github.com/H3-gg) owner,
