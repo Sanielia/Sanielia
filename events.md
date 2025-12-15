@@ -1,4 +1,4 @@
-# Tournaments that I was/am helping with
+# Events that I was/am helping with
 
 ## Heroes 3
 - Kubaryt Cup I, II, III and IV - Main Organizer/Committee Chef from 9 VI 2021 - 27 XI 2021, 31 XII 2021 - 19 X 2022, 15 XII 2022 - 6 XI 2023, 7 XII 2023 to 1 VII 2024.
@@ -26,3 +26,20 @@
   - XXV Anniversary Championships Warmup - Organizer, Judge from 25 II 2024 to 5 V 2024
   - XXV Anniversary Championship by Lenovo Legion - Organizer, Judge
 - TyraCup - Judge from 2 XII 2025 to now.
+
+## Capture the Flag
+- Hack4Krak 31 LO Edition - Head Coordinator
+- Hack4Krak Primary School Edition - Head Coordinator
+
+## MuseDash
+- 31 LO MuseDash tournament - assitant organizer
+
+## Hackaton
+- Hackaton "Fajna sprawa" in 31LO - organizer,
+- Hackaton for Primary Schools in 31LO - volunteer,
+- Hackaton during "Tragi Pracy i Przedsiębiorczości 2025" by KMS - volunteer
+
+## Other
+- Studencki Festiwal Informatyczny 20 - volunteer,
+- HearTheYouth Conference by KMS - 2024 volunteer, 2025 representative of co-organizer,
+- Kraków Enterprise Mondays Oct and Nov 2025 - volunteer
