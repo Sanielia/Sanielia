@@ -17,7 +17,7 @@ I am also pretty active in organization of many events which you can find listed
 ## 🔭 I’m currently working on:
 [Hack4KrakSite](https://github.com/Hack4Krak/Hack4KrakSite) - Project for Hack4Krak CTF, I am ~~mainly backend~~ ~~unfortunalety~~ fullstack dev there.\
 [chess-rs](https://github.com/Kubaryt/chess-rs) - Chess in Rust,\
-[GithubProjectsDiscordBot](https://github.com/Hack4Krak/GithubProjectDiscordBot) - (dev branch has all commits for now lmao) integration between Discord and Github Projects with creating posts and so.\
+[GithubProjectsDiscordBot](https://github.com/Hack4Krak/GithubProjectDiscordBot) - integration between Discord and Github Projects with creating posts and so.\
 
 ## 📯 How to reach me:
 Talk to me on Discord: kubaryt\
