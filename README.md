@@ -7,7 +7,7 @@ I am mainly working in Nuxt, Rust (🏳️‍⚧️) and Python. I love linux (I
 Besides that I am also Head Coordinator, or just main organizer of Hack4Krak CTF - Capture the Flag, which had 2 editions so far, one for students from XXXI Secondary School in Cracow and second for Primary Schools in Cracow, and will have 3rd edition for all Secondary Schools in Poland!\
 I am contributor to GURU Gentoo repository and maintainer of 2 packages there.\
 I am also Heroes III tournament organizer, template maker, shoutcaster and stream host, although now I am only mostly organizer.\
-I am also pretty active in organization of many events which you can find listed here: https://github.com/Kubaryt/Kubaryt/blob/kubaryt/events.md.
+I am also pretty active in organization of many events which you can find listed [here](./events.md).
 
 ### Heroes III organization that I am part of:
 - H3gg - staff member and [H3gg organization on Github](https://github.com/H3-gg) owner,
@@ -16,7 +16,7 @@ I am also pretty active in organization of many events which you can find listed
 
 ## 🔭 I’m currently working on:
 [Hack4KrakSite](https://github.com/Hack4Krak/Hack4KrakSite) - Project for Hack4Krak CTF, I am ~~mainly backend~~ ~~unfortunalety~~ fullstack dev there.\
-[chess-rs](https://github.com/Kubaryt/chess-rs) - Chess in Rust,\
+[chess-rs](https://github.com/Sanielia/chess-rs) - Chess in Rust,\
 [GithubProjectsDiscordBot](https://github.com/Hack4Krak/GithubProjectDiscordBot) - integration between Discord and Github Projects with creating posts and so.\
 
 ## 📯 How to reach me:
