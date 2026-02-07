@@ -2,7 +2,7 @@
 
 ## 😃 About me:
 <!-- I started around May 2021 -->
-Hi I'm Aniela, in the internet I am known as Kubaryt (or NullPointerExcep#621 in Riot Games lmao). I am young, polish programmer, . I have 3 years of programming experience!\
+Hi I'm Aniela, in the internet I am known as Sanielia (or NullPointerExcep#621 in Riot Games lmao, also Kubaryt in some places). I am young, polish programmer, . I have 3 years of programming experience!\
 I am mainly working in Nuxt, Rust (🏳️‍⚧️) and Python. I love linux (I use Gentoo BTW) ❤️\
 Besides that I am also Head Coordinator, or just main organizer of Hack4Krak CTF - Capture the Flag, which had 2 editions so far, one for students from XXXI Secondary School in Cracow and second for Primary Schools in Cracow, and will have 3rd edition for all Secondary Schools in Poland!\
 I am contributor to GURU Gentoo repository and maintainer of 2 packages there.\
