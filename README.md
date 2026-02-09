@@ -20,8 +20,8 @@ I am also pretty active in organization of many events which you can find listed
 [GithubProjectsDiscordBot](https://github.com/Hack4Krak/GithubProjectDiscordBot) - integration between Discord and Github Projects with creating posts and so.\
 
 ## 📯 How to reach me:
-Talk to me on Discord: kubaryt\
-Mail me: `kubastarzyk6554@gmail.com`
+Talk to me on Discord: sanielia\
+Mail me: `sanieliathecat@gmail.com`
 
 ## 💻 Technologies I use:
 <p align=center>
@@ -74,24 +74,24 @@ Mail me: `kubastarzyk6554@gmail.com`
   <!-- https://streak-stats.demolab.com/?user=Kubaryt -->
   <picture>
     <source 
-      srcset="https://streak-stats.demolab.com/?user=Kubaryt&theme=dark&hide_border=true"
+      srcset="https://streak-stats.demolab.com/?user=Sanielia&theme=dark&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
-    <img src="https://streak-stats.demolab.com/?user=Kubaryt&hide_border=true" />
+    <img src="https://streak-stats.demolab.com/?user=Sanielia&hide_border=true" />
   </picture>
   <br>
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=Kubaryt&theme=dark&include_all_commits=true&show_icons=true&hide=commits"
+      srcset="https://github-readme-stats.vercel.app/api?username=Sanielia&theme=dark&include_all_commits=true&show_icons=true&hide=commits"
       media="(prefers-color-scheme: dark)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=Kubaryt&show_icons=true&hide_border=true&include_all_commits=true&hide=commits" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Sanielia&show_icons=true&hide_border=true&include_all_commits=true&hide=commits" />
   </picture>
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kubaryt&theme=dark&layout=compact&hide_border=true"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanielia&theme=dark&layout=compact&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kubaryt&layout=compact&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanielia&layout=compact&hide_border=true" />
   </picture>
 </p>
