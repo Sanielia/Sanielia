@@ -4,8 +4,8 @@
 <!-- I started around May 2021 -->
 Hi I'm Aniela, in the internet I am known as Sanielia (or NullPointerExcep#621 in Riot Games lmao, also Kubaryt in some places). I am young, polish programmer, . I have 3 years of programming experience!\
 I am mainly working in Nuxt, Rust (🏳️‍⚧️) and Python. I love linux (I use Gentoo BTW) ❤️\
-Besides that I am also Head Coordinator, or just main organizer of Hack4Krak CTF - Capture the Flag, which had 2 editions so far, one for students from XXXI Secondary School in Cracow and second for Primary Schools in Cracow, and will have 3rd edition for all Secondary Schools in Poland!\
-I am contributor to GURU Gentoo repository and maintainer of 2 packages there.\
+Besides that I am also Head Coordinator, or just main organizer of Hack4Krak CTF - Capture the Flag./
+I am also contributor to GURU Gentoo repository and maintainer of 2 packages there.\
 I am also Heroes III tournament organizer, template maker, shoutcaster and stream host, although now I am only mostly organizer.\
 I am also pretty active in organization of many events which you can find listed [here](./events.md).
 
@@ -16,12 +16,19 @@ I am also pretty active in organization of many events which you can find listed
 
 ## 🔭 I’m currently working on:
 [Hack4KrakSite](https://github.com/Hack4Krak/Hack4KrakSite) - Project for Hack4Krak CTF, I am ~~mainly backend~~ ~~unfortunalety~~ fullstack dev there.\
-[chess-rs](https://github.com/Sanielia/chess-rs) - Chess in Rust,\
-[GithubProjectsDiscordBot](https://github.com/Hack4Krak/GithubProjectDiscordBot) - integration between Discord and Github Projects with creating posts and so.\
+[TasksTemplate](https://github.com/Hack4Krak/TasksTemplate) - Template for capture the flag tasks repositories.\
+[chess-rs](https://github.com/Sanielia/chess-rs) - Chess in Rust.\
+[Zerya Dev projects](https://github.com/Zerya-Dev) - Organization in which I am employee (mainly dev rn).\
+
+## 🐈 What I am proud of:
+[GithubProjectsDiscordBot](https://github.com/Hack4Krak/GithubProjectDiscordBot) - integration between Discord and Github Projects with creating posts and so, it still needs some polishing, but it's pretty good rn.\
+[text-pokemonistator](https://github.com/Sanielia/text-pokemonistator) - random website I created 3 years ago, it is bad however I use it quite often and it is first project I have ever finished so I'm biased.\
+[AoC2025](https://github.com/Sanielia/AoC2025) - solution for Advent Of Code 2025, I didn't finish it, but I did pretty good I think.\
+[GameOfLifePython](https://github.com/Sanielia/GameOfLifePython) - my first bigger project I did for myself. It needs some polishing, but I am quite proud of how it looks rn.
 
 ## 📯 How to reach me:
 Talk to me on Discord: sanielia\
-Mail me: `sanieliathecat@gmail.com`
+Mail me: `me@sanielia.dev`
 
 ## 💻 Technologies I use:
 <p align=center>
