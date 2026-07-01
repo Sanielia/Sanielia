@@ -101,4 +101,5 @@ Mail me: `me@sanielia.dev`
     />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanielia&layout=compact&hide_border=true" />
   </picture>
+  <img src="https://raw.githubusercontent.com/Sanielia/Sanielia/output/stats-dark.svg" />
 </p>
