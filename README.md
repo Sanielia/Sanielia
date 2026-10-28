@@ -47,8 +47,8 @@ Mail me: `me@sanielia.dev`
       src="https://raw.githubusercontent.com/Sanielia/Sanielia/output/stats.svg?v=2"
       alt="GitHub statistics"
     />
-  </picture>
-
+</picture>
+<!--
   <br />
 
   <picture>
@@ -60,7 +60,7 @@ Mail me: `me@sanielia.dev`
       src="https://raw.githubusercontent.com/Sanielia/Sanielia/output/top-langs.svg"
       alt="Most-used programming languages"
     />
-  </picture>
+  </picture> -->
 
   <br />
 
