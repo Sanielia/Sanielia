@@ -3,9 +3,9 @@
 ## 😃 About me:
 <!-- I started around May 2021 -->
 Hi I'm Aniela, in the internet I am known as Sanielia (or NullPointerExcep#621 in Riot Games lmao, also Kubaryt in some places). I am young, polish programmer with 3 years of programming experience!\
-I am mainly working in Nuxtm, Python (and apparently .NET lately). I love linux (I use Gentoo BTW) ❤️\
+I am mainly working in Nuxtm, Python (and apparently .NET lately). I love linux (I use Gentoo BTW) ❤️
 
-Aside from programming I'm also polish NGO CEO - [Zerya Foundation](https://foundation.zerya.dev). With my team I'm organizing tech events like hackathons, CTFs or Gamejams for highschoolers.
+Aside from programming I'm also polish NGO CEO - [Zerya Foundation](https://foundation.zerya.dev). With my team I'm organizing tech events like hackathons, CTFs or Gamejams for highschoolers.\
 I did also organize different events, list of all you can find in [here](./events.md).
 
 ## 🔭 I’m currently working on:
