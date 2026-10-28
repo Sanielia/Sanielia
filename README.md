@@ -24,28 +24,55 @@ Talk to me on Discord: sanielia\
 Mail me: `me@sanielia.dev`
 
 ## 🧪 Stats
-<p align=center>
-   <picture>
-    <source 
-      srcset="https://streak-stats.demolab.com/?user=Sanielia&theme=dark&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://streak-stats.demolab.com/?user=Sanielia&hide_border=true" />
-  </picture>
-  <br>
+<p align="center">
   <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=Sanielia&theme=dark&include_all_commits=true&show_icons=true&hide=commits"
+    <source
+      srcset="https://raw.githubusercontent.com/Sanielia/Sanielia/output/streak-dark.svg"
       media="(prefers-color-scheme: dark)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=Sanielia&show_icons=true&hide_border=true&include_all_commits=true&hide=commits" />
+    <img
+      src="https://raw.githubusercontent.com/Sanielia/Sanielia/output/streak.svg"
+      alt="GitHub streak statistics"
+    />
   </picture>
+
+  <br />
+
   <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanielia&theme=dark&layout=compact&hide_border=true"
+    <source
+      srcset="https://raw.githubusercontent.com/Sanielia/Sanielia/output/stats-dark.svg?v=2"
       media="(prefers-color-scheme: dark)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanielia&layout=compact&hide_border=true" />
+    <img
+      src="https://raw.githubusercontent.com/Sanielia/Sanielia/output/stats.svg?v=2"
+      alt="GitHub statistics"
+    />
   </picture>
-  <img src="https://raw.githubusercontent.com/Sanielia/Sanielia/output/stats-dark.svg" />
+
+  <br />
+
+  <picture>
+    <source
+      srcset="https://raw.githubusercontent.com/Sanielia/Sanielia/output/top-langs-dark.svg"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Sanielia/Sanielia/output/top-langs.svg"
+      alt="Most-used programming languages"
+    />
+  </picture>
+
+  <br />
+
+  <picture>
+    <source
+      srcset="https://raw.githubusercontent.com/Sanielia/Sanielia/output/github-contribution-grid-snake-dark.svg"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Sanielia/Sanielia/output/github-contribution-grid-snake.svg"
+      alt="GitHub contribution snake animation"
+    />
+  </picture>
 </p>
+
