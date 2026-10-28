@@ -25,11 +25,12 @@
   - Wasteland Story - Organizer and Judge from 9 I 2024 to 31 III 2024,
   - XXV Anniversary Championships Warmup - Organizer, Judge from 25 II 2024 to 5 V 2024
   - XXV Anniversary Championship by Lenovo Legion - Organizer, Judge
-- TyraCup - Judge from 2 XII 2025 to now.
+- TyraCup - Judge from 2 XII 2025 to idk.
 
 ## Capture the Flag
 - Hack4Krak 31 LO Edition - Head Coordinator
 - Hack4Krak Primary School Edition - Head Coordinator
+- Hack4Krak CTF 2026 - Head Coordinator
 
 ## MuseDash
 - 31 LO MuseDash tournament - assitant organizer
@@ -38,8 +39,10 @@
 - Hackaton "Fajna sprawa" in 31LO - organizer,
 - Hackaton for Primary Schools in 31LO - volunteer,
 - Hackaton during "Tragi Pracy i Przedsiębiorczości 2025" by KMS - volunteer
+- Hackathon in 31LO - coordinator
 
 ## Other
-- Studencki Festiwal Informatyczny 20 - volunteer,
+- Studencki Festiwal Informatyczny 20, 21 - volunteer,
 - HearTheYouth Conference by KMS - 2024 volunteer, 2025 representative of co-organizer,
 - Kraków Enterprise Mondays Oct and Nov 2025 - volunteer
+- Haven Kraków - finance and legal coordinator
