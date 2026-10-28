@@ -95,3 +95,29 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ github.token }}
 
+      - name: Purge GitHub image cache
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          page="$(curl --fail --silent --show-error --location \
+            "https://github.com/${GITHUB_REPOSITORY}/tree/master")"
+
+          mapfile -t urls < <(
+            printf '%s' "$page" |
+              grep -Eo 'https://camo\.githubusercontent\.com[a-zA-Z0-9./?=_%:&+~#-]*' |
+              sort -u
+          )
+
+          if [ "${#urls[@]}" -eq 0 ]; then
+            echo "::warning::No Camo image URLs found."
+            exit 0
+          fi
+
+          for url in "${urls[@]}"; do
+            echo "Purging $url"
+            curl --silent --show-error \
+              --output /dev/null \
+              --write-out 'HTTP %{http_code}\n' \
+              --request PURGE "$url"
+          done
